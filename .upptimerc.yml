@@ -15,12 +15,12 @@ sites:
   - name: Server IPv4
     check: "tcp-ping"
     url: $IPV4
-    port: 53
+    port: 80
     icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/ipv4.svg
   - name: Server IPv6
     check: "tcp-ping"
     url: $IPV6
-    port: 53
+    port: 80
     icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/ipv6.svg
     
 status-website:
