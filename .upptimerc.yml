@@ -1,31 +1,43 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: ctrl-i
+repo: uptime
+user-agent: uptime-boffin
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: Boffin
+    url: $BOFFINURL
+    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/boff.in.png
+  - name: Mail Boffin
+    url: $MAILURL
+    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailcow.png
+  - name: Email
+    url: $EMAILURL
+    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailboffin.svg
+  - name: Server IPv4
+    check: "tcp-ping"
+    url: $IPV4
+    port: 53
+    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/ipv4.svg
+  - name: Server IPv6
+    check: "tcp-ping"
+    url: $IPV6
+    port: 53
+    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/ipv6.svg
+    
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  cname: uptime.boff.in
+  logoUrl: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/uptime.svg
+  name: Uptime Boffin
+  favicon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/uptime.png
+  faviconSvg: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/uptime.svg
+  metaTags:
+    - name: "robots"
+      content: "noindex"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+robotsText: "User-agent: * \n Disallow: /"
+
+i18n:
+  footer: ""
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
