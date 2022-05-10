@@ -4,18 +4,19 @@
     "url": "$BOFFINURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/boff.in.png",
     "slug": "boffin",
-    "status": "up",
-    "uptime": "89.58%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "89.97%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "85.61%",
-    "uptimeMonth": "89.58%",
-    "uptimeYear": "89.58%",
+    "uptimeMonth": "89.97%",
+    "uptimeYear": "89.97%",
     "time": 441,
     "timeDay": 323,
     "timeWeek": 452,
     "timeMonth": 441,
     "timeYear": 441,
     "dailyMinutesDown": {
+      "2022-05-10": 0,
       "2022-05-05": 457,
       "2022-05-04": 993
     }
@@ -25,9 +26,9 @@
     "url": "$MAILURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailcow.png",
     "slug": "mail-boffin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,14 +37,16 @@
     "timeWeek": 613,
     "timeMonth": 618,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-10": 0
+    }
   },
   {
     "name": "Email",
     "url": "$EMAILURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailboffin.svg",
     "slug": "email",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -54,7 +57,9 @@
     "timeWeek": 147,
     "timeMonth": 141,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-10": 0
+    }
   },
   {
     "name": "IP address",
