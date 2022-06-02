@@ -4,18 +4,19 @@
     "url": "$BOFFINURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/boff.in.png",
     "slug": "boffin",
-    "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.94%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.69%",
-    "uptimeYear": "96.92%",
+    "uptimeYear": "96.94%",
     "time": 437,
     "timeDay": 565,
     "timeWeek": 536,
     "timeMonth": 439,
     "timeYear": 437,
     "dailyMinutesDown": {
+      "2022-06-02": 0,
       "2022-05-05": 457,
       "2022-05-04": 993
     }
@@ -25,9 +26,9 @@
     "url": "$MAILURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailcow.png",
     "slug": "mail-boffin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,16 +37,18 @@
     "timeWeek": 968,
     "timeMonth": 702,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "Email",
     "url": "$EMAILURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailboffin.svg",
     "slug": "email",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,16 +57,18 @@
     "timeWeek": 133,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   },
   {
     "name": "IP address",
     "url": "$IPV4",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/ipv4.svg",
     "slug": "ip-address",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,6 +77,8 @@
     "timeWeek": 112,
     "timeMonth": 113,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-02": 0
+    }
   }
 ]
