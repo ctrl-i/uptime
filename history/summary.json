@@ -6,22 +6,21 @@
     "slug": "boffin",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 465,
-    "timeDay": 2351,
-    "timeWeek": 1182,
-    "timeMonth": 700,
+    "timeDay": 2324,
+    "timeWeek": 1170,
+    "timeMonth": 698,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-06-11": 28,
+      "2023-06-11": 16,
       "2023-06-10": 25,
       "2023-03-27": 18,
       "2023-01-25": 16,
-      "2022-10-02": 32,
-      "2022-06-12": 17
+      "2022-10-02": 32
     }
   },
   {
@@ -36,17 +35,16 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
     "time": 670,
-    "timeDay": 1286,
-    "timeWeek": 807,
-    "timeMonth": 677,
+    "timeDay": 722,
+    "timeWeek": 788,
+    "timeMonth": 684,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2023-06-10": 25,
       "2023-03-27": 18,
       "2023-01-25": 32,
       "2022-10-02": 32,
-      "2022-08-24": 36,
-      "2022-06-12": 17
+      "2022-08-24": 36
     }
   },
   {
@@ -61,16 +59,15 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 138,
-    "timeDay": 374,
-    "timeWeek": 179,
-    "timeMonth": 143,
+    "timeDay": 140,
+    "timeWeek": 174,
+    "timeMonth": 144,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2023-06-10": 24,
       "2023-03-27": 17,
       "2023-01-25": 32,
-      "2022-10-02": 32,
-      "2022-06-12": 17
+      "2022-10-02": 32
     }
   },
   {
@@ -85,14 +82,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 160,
-    "timeWeek": 130,
-    "timeMonth": 119,
+    "timeDay": 129,
+    "timeWeek": 126,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2023-03-27": 16,
-      "2022-10-02": 32,
-      "2022-06-12": 17
+      "2022-10-02": 32
     }
   }
 ]
