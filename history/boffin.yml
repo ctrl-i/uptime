@@ -1,7 +1,7 @@
 url: $BOFFINURL
-status: down
-code: 500
-responseTime: 318
-lastUpdated: 2024-03-18T09:21:01.775Z
+status: up
+code: 200
+responseTime: 450
+lastUpdated: 2024-03-18T10:28:35.862Z
 startTime: 2022-04-30T08:57:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
