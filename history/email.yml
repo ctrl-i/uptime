@@ -1,7 +1,7 @@
 url: $EMAILURL
-status: down
-code: 500
-responseTime: 95
-lastUpdated: 2024-03-18T11:55:35.383Z
+status: up
+code: 200
+responseTime: 221
+lastUpdated: 2024-03-18T12:10:50.477Z
 startTime: 2022-04-30T08:57:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
