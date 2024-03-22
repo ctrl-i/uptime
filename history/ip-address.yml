@@ -1,7 +1,7 @@
 url: $IPV4
-status: up
-code: 200
-responseTime: 154
-lastUpdated: 2024-03-21T23:14:03.238Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-03-22T10:34:28.158Z
 startTime: 2022-04-30T09:26:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
