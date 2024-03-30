@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.38%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.75%",
     "time": 451,
-    "timeDay": 320,
-    "timeWeek": 374,
-    "timeMonth": 397,
-    "timeYear": 451,
+    "timeDay": 313,
+    "timeWeek": 340,
+    "timeMonth": 395,
+    "timeYear": 450,
     "dailyMinutesDown": {
       "2024-03-22": 36,
       "2024-03-18": 128,
@@ -32,8 +32,7 @@
       "2023-08-24": 75,
       "2023-08-23": 166,
       "2023-06-11": 16,
-      "2023-06-10": 25,
-      "2023-03-27": 18
+      "2023-06-10": 25
     }
   },
   {
@@ -42,18 +41,23 @@
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailcow.png",
     "slug": "mail-boffin",
     "status": "down",
-    "uptime": "99.34%",
+    "uptime": "98.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.31%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "98.78%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "71.63%",
+    "uptimeYear": "97.42%",
     "time": 601,
     "timeDay": 0,
-    "timeWeek": 462,
+    "timeWeek": 0,
     "timeMonth": 470,
-    "timeYear": 575,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-03-25": 53,
+      "2024-03-30": 50,
+      "2024-03-29": 1440,
+      "2024-03-28": 1440,
+      "2024-03-27": 1440,
+      "2024-03-26": 1440,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -72,8 +76,7 @@
       "2023-08-24": 74,
       "2023-08-23": 165,
       "2023-06-30": 16,
-      "2023-06-10": 25,
-      "2023-03-27": 18
+      "2023-06-10": 25
     }
   },
   {
@@ -82,18 +85,23 @@
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailboffin.svg",
     "slug": "email",
     "status": "down",
-    "uptime": "99.35%",
+    "uptime": "98.64%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.31%",
-    "uptimeMonth": "88.06%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "71.63%",
+    "uptimeYear": "97.42%",
     "time": 191,
     "timeDay": 0,
-    "timeWeek": 204,
+    "timeWeek": 0,
     "timeMonth": 217,
     "timeYear": 206,
     "dailyMinutesDown": {
-      "2024-03-25": 53,
+      "2024-03-30": 50,
+      "2024-03-29": 1440,
+      "2024-03-28": 1440,
+      "2024-03-27": 1440,
+      "2024-03-26": 1440,
+      "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
       "2024-03-22": 1440,
@@ -111,8 +119,7 @@
       "2023-08-25": 44,
       "2023-08-24": 74,
       "2023-08-23": 165,
-      "2023-06-10": 24,
-      "2023-03-27": 17
+      "2023-06-10": 24
     }
   },
   {
@@ -123,14 +130,14 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.65%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.25%",
-    "time": 119,
-    "timeDay": 92,
-    "timeWeek": 107,
+    "uptimeYear": "99.26%",
+    "time": 118,
+    "timeDay": 90,
+    "timeWeek": 98,
     "timeMonth": 105,
-    "timeYear": 118,
+    "timeYear": 117,
     "dailyMinutesDown": {
       "2024-03-22": 36,
       "2023-12-16": 97,
@@ -145,8 +152,7 @@
       "2023-08-26": 74,
       "2023-08-25": 42,
       "2023-08-24": 52,
-      "2023-08-23": 117,
-      "2023-03-27": 16
+      "2023-08-23": 117
     }
   }
 ]
