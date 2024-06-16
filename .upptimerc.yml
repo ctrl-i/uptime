@@ -6,12 +6,12 @@ sites:
   - name: Boffin
     url: $BOFFINURL
     icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/boff.in.png
-  - name: Mail Boffin
-    url: $MAILURL
-    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailcow.png
-  - name: Email
-    url: $EMAILURL
-    icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailboffin.svg
+  #- name: Mail Boffin
+  #  url: $MAILURL
+  #  icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailcow.png
+  #- name: Email
+  # url: $EMAILURL
+  #  icon: https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/mailboffin.svg
   - name: IP address
     check: "tcp-ping"
     url: $IPV4
