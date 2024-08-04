@@ -4,7 +4,7 @@
     "url": "$BOFFINURL",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/boff.in.png",
     "slug": "boffin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 447,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-08-04": 0,
       "2024-03-22": 36,
       "2024-03-18": 128,
       "2024-03-12": 18,
