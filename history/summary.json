@@ -5,11 +5,11 @@
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/boff.in.png",
     "slug": "boffin",
     "status": "down",
-    "uptime": "96.15%",
+    "uptime": "96.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "84.48%",
+    "uptimeYear": "84.38%",
     "time": 478,
     "timeDay": 0,
     "timeWeek": 0,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2025-10-31": 38,
       "2026-01-11": 16,
-      "2026-07-04": 156,
+      "2026-07-04": 676,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
@@ -83,9 +83,9 @@
     "url": "$IPV4",
     "icon": "https://raw.githubusercontent.com/ctrl-i/uptime/master/assets/ipv4.svg",
     "slug": "ip-address",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
@@ -100,7 +100,8 @@
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
-      "2026-05-29": 450
+      "2026-05-29": 450,
+      "2026-07-04": 0
     }
   }
 ]
